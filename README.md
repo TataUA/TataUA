@@ -21,20 +21,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-🔹 [Sport Hub](https://github.com/TataUA/teamchallenge_sport_store_frontend) - Modern e-commerce platform for sportswear and footwear built with Next.js & TypeScript. [Live Demo](https://teamchallenge-sport-store-frontend.vercel.app/)
-
-🔹 [Goose Track](https://github.com/Yura-Platonov/GooseTrack_frontend) - Task management app with calendar view, built with React & Redux Toolkit. [Live Demo](https://yura-platonov.github.io/GooseTrack_frontend/calendar/month/1741858958413)
-
-🔹 [Cinemania](https://github.com/LaPaNu4/project-Tenth_Team) - Movie search app using The Movie Database API. [Live Demo](https://lapanu4.github.io/project-Tenth_Team/)
-
-🔹 [Mimino](https://github.com/NickRytp/team-19) - Restaurant and hotel complex website. [Live Demo](https://nickrytp.github.io/team-19/)
-
-🔹 [Rent The Car](https://github.com/TataUA/rental-cars) - Car search and rental site. [Live Demo](https://tataua.github.io/rental-cars/#/catalog)
-
----
-
 ## 📈 CodeWars
 
 ![CodeWars](https://www.codewars.com/users/TataUA/badges/large)
