@@ -49,3 +49,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetiana-khyzhniak/)
 
 Let's build something great together! 🚀
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TataUA/TataUA/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TataUA/TataUA/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TataUA/TataUA/output/github-snake.svg" />
+</picture>
