@@ -4,6 +4,7 @@
 
 🌍 Based in Czech Republic | 🌐 Open to remote opportunities
 
+
 ---
 
 ## 🛠 Tech Stack
@@ -19,13 +20,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
 
-## 📈 CodeWars
-
-![CodeWars](https://www.codewars.com/users/TataUA/badges/large)
-
-[Check out my CodeWars profile](https://www.codewars.com/users/TataUA) 🚀
 
 ---
 
@@ -35,6 +30,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetiana-khyzhniak/)
 
 Let's build something great together! 🚀
+
+![](https://www.codewars.com/users/TataUA/badges/small)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TataUA/TataUA/output/github-snake-dark.svg" />
